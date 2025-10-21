@@ -12,6 +12,7 @@ Kullanıcı seçtiği şehir için anlık sıcaklık, nem, rüzgar hızı ve hav
 
 📂 Proje Yapısı
 
+```text
 lib/
 ├── main.dart
 ├── models/
@@ -22,6 +23,8 @@ lib/
 │ └── home_page.dart
 └── widgets/
 └── weather_card.dart
+
+```
 
 🚀 Kurulum
 
