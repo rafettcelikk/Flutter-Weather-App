@@ -38,7 +38,7 @@ lib/
 2. Proje klsörüne gir:
 
    ```bash
-   cd Flutter-Color-Weather-App
+   cd Flutter-Weather-App
 
    ```
 
