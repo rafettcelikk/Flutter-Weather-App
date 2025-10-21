@@ -25,25 +25,39 @@ lib/
 
 🚀 Kurulum
 
-- Repoyu klonla:
+1. Repoyu klonla:
 
-git clone https://github.com/rafettcelikk/flutter_weather_app.git
+   ```bash
+   git clone https://github.com/rafettcelikk/Flutter-Weather-App.git
 
-cd flutter_weather_app
+   ```
 
-- Paketleri yükle:
+2. Proje klsörüne gir:
 
-flutter pub get
+   ```bash
+   cd Flutter-Color-Weather-App
+
+   ```
+
+3. Paketleri yükle:
+
+   ```bash
+   flutter pub get
+
+   ```
+
+4. Uygulamayı çalıştır:
+
+   ```bash
+   flutter run
+
+   ```
 
 - .env dosyası oluştur:
 
 OPENWEATHER_API_KEY=YOUR_API_KEY_HERE
 
 - ⚠️ .env dosyası .gitignore içinde olmalı. Repo’ya sadece .env.example ekleyebilirsin.
-
-- Uygulamayı çalıştır:
-
-flutter run
 
 📸 Ekran Görüntüsü
 
